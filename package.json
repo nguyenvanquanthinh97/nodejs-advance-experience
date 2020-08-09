@@ -1,0 +1,23 @@
+{
+	"name": "advanced-nodejs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "async.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nguyenvanquanthinh97/nodejs-advance-experience.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/nguyenvanquanthinh97/nodejs-advance-experience/issues"
+	},
+	"homepage": "https://github.com/nguyenvanquanthinh97/nodejs-advance-experience#readme",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
